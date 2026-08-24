@@ -2,6 +2,12 @@
 
 The API-first core for the K Suite tools.
 
+## Project documentation
+
+Read the live architecture and tool planning documentation before making changes:
+
+<https://klever-lab.github.io/k-suite-docs/>
+
 ## Run locally
 
 ```bash
